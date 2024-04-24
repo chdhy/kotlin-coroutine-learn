@@ -1,4 +1,4 @@
-package com.hunter.kotlin.coroutine.learn
+package com.hunter.kotlin.coroutine.learn.thread
 
 import java.util.concurrent.ConcurrentLinkedQueue
 import kotlin.concurrent.thread
